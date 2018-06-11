@@ -24,10 +24,10 @@
 
 <div class="center">
    
-  <img class="mySlides w3-animate-fading" src="images/rsz_635763931203020740808271925_bnr-adopt-a-pet.jpg">
-  <img class="mySlides w3-animate-fading" src="images/_Adopt-a-Dog-with-the-Right-Energy.jpg">
-  <img class="mySlides w3-animate-fading" src="images/rsz_1493908788869.jpg">
-  <img class="mySlides w3-animate-fading" src="images/benadryl.jpg">
+  <img class="mySlides " src="images/rsz_635763931203020740808271925_bnr-adopt-a-pet.jpg">
+  <img class="mySlides  " src="images/_Adopt-a-Dog-with-the-Right-Energy.jpg">
+  <img class="mySlides " src="images/rsz_1493908788869.jpg">
+  <img class="mySlides " src="images/benadryl.jpg">
 
 </div>
 

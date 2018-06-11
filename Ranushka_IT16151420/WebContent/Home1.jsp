@@ -14,7 +14,17 @@
 <div>
 <jsp:include page="Home1SlideShow.jsp"></jsp:include>
 </div>
+<br>
 
+<jsp:include page="Home1Content.jsp"></jsp:include>
+
+<br>
+<br>
+<br>
+
+<jsp:include page="Home1Content2.jsp"></jsp:include>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 
 <jsp:include page="Home1Footer.jsp"></jsp:include> 

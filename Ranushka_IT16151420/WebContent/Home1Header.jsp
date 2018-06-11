@@ -69,7 +69,7 @@ li a:hover {
   <li><a href="#videos">Pet Health Care</a></li>
   <li><a href="#faq">Donate</a></li>	
   <li><a href="Traineer_login.jsp">Pet Trainer</a></li>
-  <li><a href="#Login.jsp">Log In / Sign Up</a></li>	
+  <li><a href="#Login.jsp">Log In/Sign Up</a></li>	
 
 </ul>
  
